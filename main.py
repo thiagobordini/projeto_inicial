@@ -9,6 +9,7 @@ import pandas as pd
 
 def minha_funcao() -> None:
     print("Olá, Mundo!")
+    
 minha_funcao()
 
 if nome == 'Thiago Bordini':
@@ -18,4 +19,3 @@ else:
 
 for i in range(1, 11):
     print(i)
-    
